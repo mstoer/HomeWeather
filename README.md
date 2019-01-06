@@ -1,2 +1,2 @@
 # HomeWeather
-Android app to view/load ESP32 power home weather station web page
+Android app to view/load ESP32 powered home weather station web page
