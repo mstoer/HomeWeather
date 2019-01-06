@@ -1,0 +1,15 @@
+Executable : D:\Users\mstoer\AndroidSDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\Projects\AndroidStudio\HomeWeather\app
+-BD:\Projects\AndroidStudio\HomeWeather\app\.externalNativeBuild\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Projects\AndroidStudio\HomeWeather\app\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=D:\Users\mstoer\AndroidSDK\ndk-bundle
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_TOOLCHAIN_FILE=D:\Users\mstoer\AndroidSDK\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Users\mstoer\AndroidSDK\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

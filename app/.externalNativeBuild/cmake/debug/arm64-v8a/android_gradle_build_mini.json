@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\Projects\\AndroidStudio\\HomeWeather\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Users\\mstoer\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Projects\\AndroidStudio\\HomeWeather\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "D:\\Users\\mstoer\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Projects\\AndroidStudio\\HomeWeather\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "D:\\Projects\\AndroidStudio\\HomeWeather\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-lib.so"
+    }
+  }
+}
