@@ -4,7 +4,7 @@
             "outputFile": "D:\\Projects\\AndroidStudio\\HomeWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mstoer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bdcc47969c927065480c88a2968628f9\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "D:\\Android\\Gradle\\gradle-6.6.1-bin\\caches\\transforms-2\\files-2.1\\02a0b5591867b269bf90099dda756d74\\appcompat-v7-28.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
